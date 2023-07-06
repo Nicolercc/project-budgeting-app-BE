@@ -8,17 +8,17 @@
 
 As a user of Budgtr, you can enjoy the following key features:
 
-[] User-Friendly Interface
+[ ] User-Friendly Interface
 
-[] Create and Manage Transactions
+[ ] Create and Manage Transactions
 
-[] View and Edit Transactions
+[ ] View and Edit Transactions
 
-[] Delete Transactions
+[ ] Delete Transactions
 
-[] Real-Time Calculation
+[ ] Real-Time Calculation
 
-[] Styling based on Account Balance
+[ ] Styling based on Account Balance
 
 [] Error Handling
 
