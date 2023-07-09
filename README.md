@@ -1,39 +1,24 @@
-# project-budgeting-app-BE
+# Budgetting App Backend
 
-### Description:
+### Description
 
-> Budgtr is an application where people can log their financial transactions. This project brings together various skills in JavaScript, website development, React, servers, and RESTful routes.
-
----
-
-As a user of Budgtr, you can enjoy the following key features:
-
-- [ ] User-Friendly Interface
-
-- [ ] Create and Manage Transactions
-
-- [ ] View and Edit Transactions
-
-- [ ] Delete Transactions
-
-- [ ] Real-Time Calculation
-
-- [ ] Styling based on Account Balance
-
-- [ ] Error Handling
+> The Budgetting app Backend is a server-side component of the Budgtr application. It provides functionality for managing financial transactions and user accounts. Follow these steps to install and run the backend:
 
 ---
 
 ## Installation
 
-Please see the appropriate guide for your environment of choice:
+Clone the repository and navigate to the project directory.
+Install dependencies: `npm install`
 
-1. Clone your repository
-2. Navigate to your project directory
-3. Install dependecies: `?`
+## Dependencies:
 
----
+## `Express` 
+Web application framework for Node.js
+## `dotenv` 
+Load environment variables from a .env file
+## `cors` 
+Enable Cross-Origin Resource Sharing (CORS)
+## `morgan` 
+HTTP request logger middleware for Node.js
 
-> Trello: [https://trello.com/b/SEp1dri4/budgeting-app-project-management]
-
----
