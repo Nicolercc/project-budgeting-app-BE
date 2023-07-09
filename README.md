@@ -11,14 +11,14 @@
 Clone the repository and navigate to the project directory.
 Install dependencies: `npm install`
 
-## Dependencies:
+### Dependencies:
 
-# `Express` 
+### `Express` 
 Web application framework for Node.js
-## `dotenv` 
+### `dotenv` 
 Load environment variables from a .env file
-## `cors` 
+### `cors` 
 Enable Cross-Origin Resource Sharing (CORS)
-## `morgan` 
+### `morgan` 
 HTTP request logger middleware for Node.js
 
