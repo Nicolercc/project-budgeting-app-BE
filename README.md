@@ -2,7 +2,7 @@
 
 ### Description
 
-> The Budgetting app Backend is a server-side component of the Budgtr application. It provides functionality for managing financial transactions and user accounts. Follow these steps to install and run the backend:
+> The Budgetting app Backend is a server-side component of the Budgetting application. It provides functionality for managing financial transactions and user accounts. Follow these steps to install and run the backend:
 
 ---
 
