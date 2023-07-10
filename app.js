@@ -20,15 +20,4 @@ app.use("*", (req, res) => {
   res.status(404).send("sorry, the page you requested cannot be found");
 });
 
-// app.use((err, req, res, next) => {
-//   if (err.name === "ValidationError") {
-//     // Handle validation errors
-//     res.status(400).json({ error: err.message });
-//   } else {
-//     // Handle other types of errors
-//     console.error(err);
-//     res.status(500).json({ error: "Internal Server Error" });
-//   }
-// });
-
 module.exports = app;
