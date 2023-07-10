@@ -78,11 +78,15 @@ router.put("/update-transaction/:id", (req, res) => {
       message: "ID not found",
     });
   } else {
-    transactionModel.splice(foundIndex, 1, req.body);
+    const updatedData = {
+      id: uuidv4(),
+      ...req.body,
+    };
+    transactionModel.splice(foundIndex, 1, updatedData);
     res.json({
       message: "success",
       status: true,
-      data: req.body,
+      data: updatedData,
     });
   }
 });
